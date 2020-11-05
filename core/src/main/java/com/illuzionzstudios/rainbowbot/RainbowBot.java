@@ -56,7 +56,7 @@ public class RainbowBot extends DiscordBot implements DiscordApplication {
      */
     public static void main(String[] args) {
         if (args[0] == null) {
-            System.err.println("You must provide a bot token to start the bot");
+            System.err.println("NzY5MzgxNzQ3MzkyOTA1MjI2.X5OMlw.D_T4SQwKP-bKcsC3UkeY_kRZWGg ");
             return;
         }
 
